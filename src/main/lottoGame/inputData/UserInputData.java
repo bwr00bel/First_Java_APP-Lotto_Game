@@ -1,7 +1,7 @@
 package inputData;
 
 import config.DataConfig;
-import services.PrintedMessage;
+import services.MessagePrinter;
 
 import java.util.Collections;
 import java.util.HashSet;
@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class UserInputData {
-    PrintedMessage printedMessage = new PrintedMessage();
+    MessagePrinter printedMessage = new MessagePrinter();
 
     public Set<Integer> loadNumberFromUSer(Scanner scanner) {
         Set<Integer> listOfNumberProvidedByUser = loadUserNumber(scanner);
