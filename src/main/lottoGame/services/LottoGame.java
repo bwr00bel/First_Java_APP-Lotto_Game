@@ -15,7 +15,6 @@ public class LottoGame implements Game {
     private final UserInputData userInputData;
     private final MessagePrinter messagePrinter;
 
-    private final LottoGameResult lottoGameResult;
 
     private final Scanner scanner;
 
