@@ -1,4 +1,4 @@
-package inputData;
+package inputDataTest;
 
 import config.DataConfig;
 import services.MessagePrinter;

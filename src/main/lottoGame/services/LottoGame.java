@@ -1,7 +1,7 @@
 package services;
 
 import config.DataConfig;
-import inputData.UserInputData;
+import inputDataTest.UserInputData;
 import lombok.Data;
 
 import java.util.Scanner;

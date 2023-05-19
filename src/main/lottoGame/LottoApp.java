@@ -1,4 +1,4 @@
-import inputData.UserInputData;
+import inputDataTest.UserInputData;
 import services.Game;
 import services.LottoGame;
 import services.MessagePrinter;
